@@ -1,4 +1,3 @@
 # lpthw
 Learn Python The Hardway
-# edit today 7.24.20
-Here is a test34
+EX1 - Using Print Command and " and '"
