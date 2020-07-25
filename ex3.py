@@ -1,7 +1,9 @@
-print ("I will now count my chickens:")
+print("I will now count my chickens:")
 
-print("Hens", 25 + 30 / 6)
-print("Roosters", 100 - 25 * 3 % 4)
+#using float function adds the float feature where decimal is added.
+print("Hens", float(25 + 30 / 6))
+#% is not a percent. its a dificion with remainder or decimal. Modulus.
+print("Roosters", float(100 - 25 * 3 % 4))
 
 print("Now I will count the eggs:")
 
