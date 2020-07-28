@@ -2,7 +2,32 @@ Pydoc
 ex - # python -m pydoc .\ex12-Prompting_People.py
 python -m pydoc
 
-PS C:\Users\KFEIERTA\lpthw> python -m pydoc
+# Look at Math module
+python -m pydoc math
+python -m pydoc tuple
+python -m pydoc pow
+
+#access it in the help function while in python
+help(pow)
+
+#Search all modules for keywords
+pydoc -k <Keyword>
+python -m pydoc -k ftp
+
+# Start HTTP server on given port on local machine
+# port 0 can be used as arbitrary unused port.
+python -m pydoc -p 314
+
+#create a webpage of the function for json
+mkdir pydoc_demo
+cd pydoc_demo
+python -m pydoc -w json
+# file gets created
+start json.html
+
+
+##########################
+PS C:\Users\lpthw> python -m pydoc
 pydoc - the Python documentation tool
 
 pydoc <name> ...
@@ -33,4 +58,4 @@ pydoc -w <name> ...
     directory.  If <name> contains a '\', it is treated as a filename; if
     it names a directory, documentation is written for all the contents.
 
-PS C:\Users\KFEIERTA\lpthw>
+PS C:\Users\lpthw>
