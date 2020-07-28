@@ -59,3 +59,10 @@ pydoc -w <name> ...
     it names a directory, documentation is written for all the contents.
 
 PS C:\Users\lpthw>
+
+
+
+###########################################
+import OS allows you to interact with the underlying Operationg system
+make directory remove directory. start at a specific path.
+https://www.youtube.com/watch?v=tJxcKyFMTGo
