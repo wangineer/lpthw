@@ -24,7 +24,7 @@ print(txt_again.read())
 
 
 ######################## Output
-#PS C:\Users\lpthw> python .\ex15-Reading_Files.py .\ex15_sample.txt
+#C:\Users\lpthw> python .\ex15-Reading_Files.py .\ex15_sample.txt
 #Here's your file .\ex15_sample.txt:
 #This is stuff I typed into a file.
 #It is really cool stff.
@@ -34,4 +34,4 @@ print(txt_again.read())
 #This is stuff I typed into a file.
 #It is really cool stff.
 #Lots and lots of fun to have in here.
-#PS C:\Users\lpthw>
+##PS C:\Users\lpthw>
