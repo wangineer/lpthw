@@ -21,7 +21,10 @@ txt_again = open(file_again)
 #calling txt_again variable opens file_again which has user imported filename.
 print(txt_again.read())
 
-
+#closing stuff at the end
+#you close these because they call the "open()"
+txt.close
+txt_again.close
 
 ######################## Output
 #C:\Users\lpthw> python .\ex15-Reading_Files.py .\ex15_sample.txt
