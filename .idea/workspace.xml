@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa9a1588-65e0-4a56-9200-971684047be6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex13-Parameters_Unpacking_Variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hint_Pydoc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hint_Pydoc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -22,6 +21,15 @@
                 <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex13-Parameters_Unpacking_Variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,6 +99,7 @@
         <option value="$PROJECT_DIR$/ex12-Prompting_People.py" />
         <option value="$PROJECT_DIR$/Hint_Pydoc.txt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ex13-Parameters_Unpacking_Variables.py" />
       </list>
     </option>
   </component>
@@ -157,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex12-Prompting_People">
+  <component name="RunManager" selected="Python.ex13-Parameters_Unpacking_Variables">
     <configuration name="Hint_Escape Sequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lpthw" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex9-Printing-Printing-Printing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex13-Parameters_Unpacking_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lpthw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,7 +284,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex9-Printing-Printing-Printing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex13-Parameters_Unpacking_Variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex13-Parameters_Unpacking_Variables" />
         <item itemvalue="Python.ex12-Prompting_People" />
         <item itemvalue="Python.ex11-Asking_Questions" />
         <item itemvalue="Python.ex10-What_Was_That" />
         <item itemvalue="Python.Hint_Escape Sequences" />
-        <item itemvalue="Python.ex9-Printing-Printing-Printing" />
       </list>
     </recent_temporary>
   </component>
@@ -585,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595919696537</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="commit">
+      <created>1595923658369</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1595923658369</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -593,7 +609,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49947312" weight="0.3290461" />
       <window_info anchor="bottom" id="Python Console" />
@@ -601,7 +617,7 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50052685" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.3279743" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.3279743" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -809,6 +825,13 @@
             <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex13-Parameters_Unpacking_Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
