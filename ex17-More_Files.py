@@ -21,6 +21,7 @@ print(f"Copying from {from_file} to {to_file}")
 in_file = open(from_file)
 indata = in_file.read()
 
+#LEN gets the length of the string that we pass and returns a number.
 print(f"The input file is {len(indata)} bytes long")
 
 print(f"Does the output file exist? {exists(to_file)}")
