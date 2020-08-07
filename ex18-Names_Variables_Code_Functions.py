@@ -1,4 +1,7 @@
 # This one is like your scripts with argv
+
+#the *args tells Python to take all the arguments to the function and then put them in args as a list.  ITs like a argv that you've bene using but for functions.
+# Its not normally use too often unless specifically needed.
 def print_two(*args):
     arg1, arg2 = args
     print(f"arg1:  {arg1}, arg2: {arg2}")
