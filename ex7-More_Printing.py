@@ -1,6 +1,8 @@
 print("Mary had a little lamb.")
-# Inserts snow inside the statement
+# Inserts snow inside the statement because sometimes you can't do an f string (format like previous example.
 print("It's fleece was white as {}.".format('snow'))
+#You can add additional - this was not part of excercise i did this on my own.
+print("This is the {} and this is the {}.".format('first', 'second'))
 print("And everywhere that Mary went.")
 
 # Repeats . 10 times
