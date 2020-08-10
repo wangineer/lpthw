@@ -1,3 +1,8 @@
+# argv stands for argument varialble or vector
+#allows you to use commandline arguments like "ls ex1*.py   note the use of the astrisk after the ex1
+# from Sys "system" module import the argv feature.
+#python -m pydoc sys
+#argv -- command line arguments; argv[0] is the script pathname if known
 from sys import argv
 # read the WYSS section for how to run this
 first, script, second, third = argv
